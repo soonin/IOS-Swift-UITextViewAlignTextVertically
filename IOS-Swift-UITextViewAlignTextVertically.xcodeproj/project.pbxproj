@@ -12,6 +12,7 @@
 		FA243B1020DC4DC90049DC4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA243B0E20DC4DC90049DC4A /* Main.storyboard */; };
 		FA243B1220DC4DCA0049DC4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA243B1120DC4DCA0049DC4A /* Assets.xcassets */; };
 		FA243B1520DC4DCA0049DC4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA243B1320DC4DCA0049DC4A /* LaunchScreen.storyboard */; };
+		FA243B1D20DC4E280049DC4A /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA243B1C20DC4E280049DC4A /* Extentions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA243B1120DC4DCA0049DC4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA243B1420DC4DCA0049DC4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA243B1620DC4DCA0049DC4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA243B1C20DC4E280049DC4A /* Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FA243B0A20DC4DC90049DC4A /* AppDelegate.swift */,
 				FA243B0C20DC4DC90049DC4A /* ViewController.swift */,
 				FA243B0E20DC4DC90049DC4A /* Main.storyboard */,
+				FA243B1C20DC4E280049DC4A /* Extentions.swift */,
 				FA243B1120DC4DCA0049DC4A /* Assets.xcassets */,
 				FA243B1320DC4DCA0049DC4A /* LaunchScreen.storyboard */,
 				FA243B1620DC4DCA0049DC4A /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				FA243B0D20DC4DC90049DC4A /* ViewController.swift in Sources */,
 				FA243B0B20DC4DC90049DC4A /* AppDelegate.swift in Sources */,
+				FA243B1D20DC4E280049DC4A /* Extentions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
